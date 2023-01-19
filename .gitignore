@@ -1,11 +1,6 @@
 # local env files
 .env*
 
-
-# files
-*.css
-*.js
-
 # directories
 .vscode
 /folder_name
